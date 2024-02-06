@@ -29,12 +29,7 @@ System design is the process of defining the elements of a system, their interac
 - **Scalability:** Focuses on maintaining speed under heavy load.
 
 ### Additional Resources:
-- [How to approach System Design?](#)
-- [What are system design questions?](#)
-- [Intro to Architecture and Systems Design Interviews](#)
-- [My System Design Template and Performance vs Scalability](#)
-- [Scalability, Availability & Stability Patterns](#)
-- [A Word on Scalability](#)
-- [Performance vs Scalability](#)
 
-Feel free to customize and explore more in-depth resources. Let's embark on this journey together! 🌐💻
+- [A Word on Scalability](https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
+- [Performance vs Scalability](https://blog.professorbeekums.com/performance-vs-scalability/)
+
